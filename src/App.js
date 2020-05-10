@@ -6,6 +6,7 @@ class App extends Component {
   
   // Nothing needs to change here! 
   // Make note of what prop we are initially passing to `ColorBox` below!
+  // passing an opacity value
   
   render() {
     return (
